@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MememtoMarco</string>
+    <string name="restaurado">restaurado</string>
+    <string name="Enviar">send</string>
+</resources>
